@@ -21,7 +21,7 @@ This website was created to practice the following skills:
 - The actual product can be found **[here](https://zahirovic.github.io/Calendar/)** and should look along the lines of this depending on device screen size:
 
 
-![Scheduler example](assets/calendar.png)
+![Scheduler example](Develop/assets/calendar.png)
 
 
 

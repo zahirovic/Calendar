@@ -25,7 +25,7 @@ This website was created to practice the following skills:
 
 
 
-## Credits) for help on local storage
+## Credits
 - [Markdown Tutorial](https://www.markdowntutorial.com/) for help on basic markdown 
 - [GetBootstrap](https://getbootstrap.com/)
 - [LogRocket](https://blog.logrocket.com/localstorage-javascript-complete-guide/) for help on local storage
